@@ -129,8 +129,4 @@ public class LoginFrame extends JFrame {
         add(loginButton);
         add(exitButton);
     }
-
-    public static void main(String[] args) {
-        new LoginFrame();
-    }
 }
